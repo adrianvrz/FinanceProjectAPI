@@ -9,7 +9,7 @@ this is a non-commercial project to my students.
 - pip
 - uvicorn
 - sqlalchemy
-- 
+- fastapi
 
 ## Uso
 
